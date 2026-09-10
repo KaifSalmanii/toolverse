@@ -1,0 +1,15 @@
+{
+  "name": "ToolVerse — All-in-One Online Tools",
+  "short_name": "ToolVerse",
+  "description": "50+ free browser-based tools: image resizer, PDF tools, IP & network utilities, QR codes, calculators and more.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%236366f1'/%3E%3Ctext x='50' y='68' font-size='52' text-anchor='middle' fill='white'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E",
+      "sizes": "any", "type": "image/svg+xml", "purpose": "any"
+    }
+  ]
+}
