@@ -34,7 +34,7 @@ Until then, clearly-labelled placeholders render in every slot.
 Any static server works:
 
 ```bash
-node server.js        # → http://localhost:8080
+node bin/server.js        # → http://localhost:8080
 # or
 python3 -m http.server 8080
 ```
